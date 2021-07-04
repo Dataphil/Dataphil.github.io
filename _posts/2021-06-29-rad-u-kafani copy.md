@@ -14,3 +14,5 @@ Mušterije očekuju osmeh i razumevanje uz porudžbinu, misleći da time što lo
 za radnike i radnice u kafani, pa i za samu srpsku privredu i društvo.
 
 Kako okončati rad u kafani? Okončavanjem kafane kao privrednog objekta i instrumenta za profit.
+
+[travolta](assets/images/travolta.jpg)
