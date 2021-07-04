@@ -15,4 +15,4 @@ za radnike i radnice u kafani, pa i za samu srpsku privredu i društvo.
 
 Kako okončati rad u kafani? Okončavanjem kafane kao privrednog objekta i instrumenta za profit.
 
-[travolta](/home/ilja/my data/websites/aparat/assets/images/travolta.jpg)
+![travolta]({{site.url}}/assets/images/travolta.jpg)
